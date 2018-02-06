@@ -9,7 +9,7 @@ $courses = $json_data['courses']['completed'];
   <head>
     <meta charset="utf-8">
     <link href="https://fonts.googleapis.com/css?family=Coda" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="grid.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
     <title><?php echo $json_data['user']['username']; ?>'s badges</title>
   </head>
 
